@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I´m Dominik👋
 
 - 🔭 I’m currently working on some School Projects
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Java
