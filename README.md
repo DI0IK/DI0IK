@@ -1,7 +1,6 @@
-### Hi there I´m Dominik👋
+### Hi there 👋
 
-- 🔭 I’m currently working on some Projects
-- 🌱 I’m currently learning TypeScript, C# and Java
+- 🌱 I’m coding in Typescript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DI0IK)
 
